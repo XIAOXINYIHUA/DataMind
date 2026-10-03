@@ -1,3 +1,13 @@
+# DataMind（数据思维：可扩展的数据分析 Agent）
+
+> **Fork 说明**：本项目在原版 DataMind 基础上进行实践与二次开发，重点探索了多 Agent 协作在数据分析场景中的应用。
+
+## 项目简介
+
+DataMind 是一个可扩展的数据分析 Agent 训练框架，支持从 7B 到 14B 规模的模型。本项目 Fork 后主要进行了中文数据场景的适配与应用实践。
+
+---
+
 
 
 <h1 align="center"> DataMind </h1>
